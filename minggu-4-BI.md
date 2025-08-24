@@ -121,14 +121,14 @@ flowchart LR
 
 ```mermaid
 flowchart TB
-  subgraph Edge/IoT
-    IOT[IoT Device on EV<br/>CAN/OBD -> MQTT]
-    CS[Charging Station<br/>(OCPP)]
+  subgraph Edge_IoT
+    IOT[IoT Device on EV CAN -OBD -MQTT]
+    CS[Charging Station - OCCP ]
   end
 
   GW[API & Ingestion Gateway]
 
-  subgraph Modular Monolith (Core)
+  subgraph Modular_Monolith_Core
     F[Fleet Mgmt]
     V[Vehicle & Telemetry]
     C[Charging]
@@ -141,11 +141,16 @@ flowchart TB
   DL[(Data Lake)]
   EXT[(External Services)]
 
-  IOT-- MQTT -->GW
-  CS-- OCPP -->GW
-  GW-->F & GW-->V & GW-->C & GW-->R & GW-->MA & GW-->B & GW-->AN
-  AN-->DL
-  B-->EXT
+  IOT -- MQTT --> GW
+  CS -- OCPP --> GW
+  GW --> F
+  GW --> V
+  GW --> C
+  GW --> R
+  GW --> MA
+  GW --> B
+  GW --> AN
+  AN --> DL
 ```
 
 ---
@@ -196,3 +201,4 @@ Tugas kelompok:
 6. Semantic Scholar. [https://www.semanticscholar.org](https://www.semanticscholar.org)  
 7. Zotero. [https://en.wikipedia.org/wiki/Zotero](https://en.wikipedia.org/wiki/Zotero)  
 8. Mendeley. [https://en.wikipedia.org/wiki/Mendeley](https://en.wikipedia.org/wiki/Mendeley)  
+
