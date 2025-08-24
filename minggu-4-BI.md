@@ -1,135 +1,198 @@
-# 📘 Modul Ajar Minggu 4
-
-**Mata Kuliah:** Bahasa Indonesia
-**Minggu:** 4
-**Topik:** Pemilihan Tema Proyek Akhir
-
----
-
-## 🎯 CPMK (Capaian Pembelajaran Mata Kuliah) Minggu 4
-
-Setelah mengikuti pembelajaran Minggu 4, mahasiswa mampu:
-
-1. Menjelaskan konsep tema penelitian/tema proyek akhir dalam konteks karya ilmiah.
-2. Mengidentifikasi kriteria tema yang baik: relevan, orisinal, bermanfaat, sesuai bidang ilmu, dan feasible (dapat dikerjakan).
-3. Melakukan analisis masalah untuk menemukan tema penelitian.
-4. Membandingkan beberapa tema lalu menentukan tema yang paling tepat.
-5. Menyusun rumusan tema proyek akhir dalam bentuk draft proposal awal.
+# 📘 Modul Ajar Minggu 4  
+**Mata Kuliah:** Bahasa Indonesia  
+**Minggu:** 4  
+**Topik:** Pemilihan Tema Karya Ilmiah + Studi Kasus Arsitektur Sistem Kompleks (Modular Monolith Fleet EV)  
 
 ---
 
-## 1. Pendahuluan
+## 🎯 CPMK (Capaian Pembelajaran Minggu 4)  
 
-Pemilihan tema penelitian atau proyek akhir adalah langkah pertama yang menentukan kualitas karya ilmiah mahasiswa. Tema ibarat “benih” yang akan tumbuh menjadi pohon penelitian. Jika benihnya baik (relevan, orisinal, sesuai kebutuhan), maka pohonnya akan sehat dan bermanfaat. Sebaliknya, jika tema dipilih asal-asalan, penelitian akan sulit dijalankan, hasilnya dangkal, bahkan berpotensi gagal.
-
-Mahasiswa sering menghadapi dilema: tema terlalu luas sehingga sulit difokuskan, atau sebaliknya terlalu sempit hingga tidak punya bobot ilmiah. Ada juga yang memilih tema hanya karena “tren” tanpa memahami relevansinya dengan bidang keilmuan. Modul ini akan membantu mahasiswa menimbang berbagai faktor sebelum memutuskan tema penelitian.
-
----
-
-## 2. Uraian Materi 
-
-### 2.1 Pengertian Tema Penelitian
-
-Tema penelitian adalah **pokok pikiran utama** yang menjadi landasan penyusunan karya ilmiah. Tema berbeda dengan judul:
-
-* **Tema** → bidang umum/topik besar (misalnya: *pengaruh media sosial terhadap perilaku belajar*).
-* **Judul** → pernyataan spesifik yang akan diteliti (misalnya: *Pengaruh Intensitas Penggunaan TikTok terhadap Konsentrasi Belajar Mahasiswa Prodi X*).
-
-### 2.2 Kriteria Pemilihan Tema yang Baik
-
-Menurut Sofyan dkk. (2007) dan Sardy (2005), tema yang baik harus:
-
-1. **Relevan** dengan bidang ilmu dan perkembangan zaman.
-2. **Orisinal** (belum banyak diteliti, atau punya sudut pandang baru).
-3. **Bermanfaat** bagi masyarakat, ilmu pengetahuan, atau pengembangan teknologi.
-4. **Feasible** → sesuai kemampuan mahasiswa (waktu, biaya, data, sumber daya).
-5. **Menarik minat penulis** → penulis termotivasi menyelesaikan.
-6. **Tersedia referensi** → ada cukup literatur untuk mendukung.
-
-### 2.3 Sumber Inspirasi Tema
-
-1. **Fenomena sosial/teknologi** → misalnya dampak AI, perubahan iklim, digitalisasi pendidikan.
-2. **Kebutuhan praktis** → masalah di lapangan yang butuh solusi.
-3. **Kajian pustaka** → menemukan celah penelitian dari studi sebelumnya.
-4. **Diskusi dengan dosen/ahli** → brainstorming tema.
-5. **Pengalaman pribadi** → masalah yang ditemui sehari-hari.
-
-### 2.4 Langkah Pemilihan Tema
-
-1. Identifikasi bidang minat.
-2. Buat daftar beberapa topik.
-3. Evaluasi tiap topik dengan kriteria relevansi, orisinalitas, manfaat, dan feasibility.
-4. Fokuskan menjadi 1 tema utama.
-5. Rumuskan tema menjadi judul sementara.
-
-### 2.5 Kesalahan Umum Mahasiswa
-
-* Tema terlalu luas: *“Pengaruh internet terhadap mahasiswa”* → terlalu umum.
-* Tema tidak relevan dengan bidang studi.
-* Tema sulit data: memilih topik yang butuh survei nasional tapi tidak punya akses.
-* Tema terlalu trendi: misalnya sekadar ikut-ikutan topik viral.
+Setelah mengikuti pembelajaran ini, mahasiswa mampu:  
+1. Menjelaskan konsep tema penelitian/tema karya ilmiah.  
+2. Mengidentifikasi kriteria tema yang baik: relevan, orisinal, bermanfaat, feasible, dan didukung literatur.  
+3. Menggunakan alat bantu digital (Publish or Perish, mesin pencari topik ilmiah, Zotero, Mendeley) untuk memilih dan menyusun tema.  
+4. Menyusun rumusan tema dalam bentuk draft judul penelitian.  
+5. Memberi contoh tema dari berbagai bidang Teknik Informatika (Cyber Security, DevSecOps, ML & IoT, Arsitektur Modular Monolith untuk Fleet EV).  
 
 ---
 
-## 3. Contoh Analisis 
+## 1. Pendahuluan  
 
-**Contoh 1:**
+Pemilihan tema penelitian adalah **langkah awal paling krusial** dalam penyusunan karya ilmiah. Tema ibarat benih: jika dipilih dengan tepat, ia akan tumbuh menjadi penelitian yang kuat, bermanfaat, dan terarah.  
 
-* Tema: *“Media Sosial dan Pendidikan”* (terlalu luas).
-* Judul spesifik: *“Pengaruh Intensitas Penggunaan TikTok terhadap Motivasi Belajar Mahasiswa Prodi Manajemen Universitas X”*.
+Namun, mahasiswa sering menghadapi dilema:  
+- Tema terlalu luas → sulit difokuskan.  
+- Tema terlalu sempit → tidak memberi kontribusi signifikan.  
+- Tema mengikuti tren semata → kehilangan relevansi ilmiah.  
 
-**Contoh 2:**
-
-* Tema: *“Kesehatan Mental Remaja”*.
-* Judul: *“Hubungan Antara Durasi Bermain Game Online dengan Tingkat Stres Remaja di SMA Y”*.
-
-Analisis: judul yang spesifik menunjukkan variabel terukur (durasi bermain game, tingkat stres).
+Minggu ini mahasiswa akan belajar cara memilih tema yang baik dengan **membantu diri menggunakan alat digital** untuk mengakses literatur dan tren riset terbaru, serta melihat **contoh nyata** dari berbagai domain Informatika, termasuk studi kasus arsitektur sistem Fleet Management EV dengan modular monolith.  
 
 ---
 
-## 4. Latihan 
+## 2. Uraian Materi  
 
-1. Sebutkan 5 tema umum sesuai bidang studi Anda, lalu buat 1 judul spesifik dari masing-masing.
-2. Evaluasi 3 tema berikut apakah layak dijadikan proyek akhir:
-   a) *“Teknologi AI dalam Kehidupan Manusia”*
-   b) *“Penggunaan Aplikasi E-learning di Fakultas Teknik Universitas Z”*
-   c) *“Hubungan Panjang Rambut Mahasiswa dengan Nilai Akademik”*
-3. Cari 2 artikel jurnal ilmiah, lalu identifikasi tema yang diangkat.
-4. Buat draft tema penelitian mini (1 halaman) dengan latar belakang singkat.
+### 2.1 Definisi Tema Penelitian  
+- **Tema** = pokok pikiran besar/topik umum.  
+- **Judul** = pernyataan spesifik yang menjadi arah penelitian.  
+
+### 2.2 Kriteria Pemilihan Tema yang Baik  
+1. **Relevan** → sesuai bidang studi dan isu aktual.  
+2. **Orisinal** → belum banyak diteliti atau ada sudut pandang baru.  
+3. **Bermanfaat** → kontribusi pada teori atau praktik.  
+4. **Feasible** → sesuai kemampuan (waktu, biaya, sumber daya).  
+5. **Didukung literatur** → tersedia referensi akademik.  
+
+### 2.3 Sumber Inspirasi Tema  
+- Fenomena sosial & teknologi.  
+- Kajian pustaka.  
+- Diskusi dengan dosen/ahli.  
+- Pengalaman pribadi.  
+
+### 2.4 Alat Bantu Digital dalam Pemilihan Tema  
+
+#### 1. **Publish or Perish 8**  
+Alat untuk mengekstrak data sitasi dari Google Scholar, Crossref, Scopus, dll.  
+- Bisa mengevaluasi dampak tema (berapa banyak publikasi & sitasi).  
+- Membantu melihat tren penelitian dari tahun ke tahun.  
+- Website: [Harzing – Publish or Perish](https://harzing.com/resources/publish-or-perish)  
+
+#### 2. **Mesin Pencari Topik Ilmiah & Studi Literatur**  
+- **Google Scholar** ([scholar.google.com](https://scholar.google.com)) → pencarian artikel, kutipan, tren.  
+- **Semantic Scholar** ([semanticscholar.org](https://www.semanticscholar.org)) → AI-based search, rekomendasi topik.  
+- **Dimensions.ai** → tren penelitian dan grant.  
+
+#### 3. **Zotero**  
+Manajer referensi gratis & open-source.  
+- Menyimpan literatur langsung dari browser.  
+- Bisa memberi tag, anotasi, dan membuat bibliografi otomatis.  
+- Referensi: [Zotero Wikipedia](https://en.wikipedia.org/wiki/Zotero)  
+
+#### 4. **Mendeley**  
+Manajer referensi milik Elsevier.  
+- Menyediakan cloud untuk menyimpan PDF.  
+- Sinkronisasi dengan Word untuk sitasi otomatis.  
+- Ada fitur jejaring sosial riset.  
+- Referensi: [Mendeley Wikipedia](https://en.wikipedia.org/wiki/Mendeley)  
 
 ---
 
-## 5. Mini Project 
+### 2.5 Integrasi Alat Digital dalam Proses Pemilihan Tema  
 
-Mahasiswa diminta membuat **proposal singkat (2–3 halaman)** yang berisi:
-
-1. Tema penelitian.
-2. Judul sementara.
-3. Latar belakang singkat.
-4. Rumusan masalah.
-5. Tujuan penelitian.
-
-Proposal ini akan menjadi dasar untuk dikembangkan pada minggu-minggu berikutnya.
-
----
-
-## 6. Rangkuman
-
-* Tema penelitian adalah pokok pikiran utama dalam karya ilmiah.
-* Kriteria tema: relevan, orisinal, bermanfaat, feasible, menarik, ada literatur.
-* Tema bisa diperoleh dari fenomena sosial, kebutuhan praktis, kajian pustaka, diskusi, atau pengalaman.
-* Langkah pemilihan: identifikasi bidang → daftar topik → evaluasi → fokuskan → rumuskan judul.
-* Kesalahan umum: tema terlalu luas, tidak relevan, sulit data, ikut tren, atau sepele.
+```mermaid
+flowchart LR
+    A[Ide Tema Awal] --> B{Cari Literatur}
+    B --> C[Publish or Perish: Analisis Sitasi & Tren]
+    B --> D[Google Scholar / Semantic Scholar: Telusur Topik]
+    C --> E[(Evaluasi Relevansi & Popularitas)]
+    D --> E
+    E --> F[Zotero/Mendeley: Koleksi & Organisasi Literatur]
+    F --> G[Identifikasi Gap Penelitian]
+    G --> H[Rumuskan Tema Spesifik]
+```
 
 ---
 
-## 7. Referensi
+## 3. Contoh  
 
-1. Agus Nero Sofyan, dkk. (2007). *Bahasa Indonesia dalam Penulisan Karya Ilmiah*. Bandung: Universitas Widyatama.
-2. Sardy S. (2005). *Penulisan Karya Ilmiah & Etika Riset*. Jakarta: UAI.
-3. R. Soedradjad. (2004). *Teknik Menulis Ilmiah*.
-4. John Swales & Christine Feak. (2004). *Academic Writing for Graduate Students*.
-5. Budi Rahardjo. (2010). *Panduan Menulis dan Mempresentasikan Karya Ilmiah*.
-6. Michael A. Morrison. (2004). *Tips on Scientific Writing*.
+### A. Sosial-Edukasi  
+- Tema umum: *Media Sosial dan Pendidikan*.  
+- Judul spesifik: *Pengaruh Intensitas Penggunaan TikTok terhadap Konsentrasi Belajar Mahasiswa Informatika Universitas X*.  
+
+### B. Bidang Teknik Informatika  
+
+#### 1. Cyber Security  
+- **Tema umum:** IDS untuk serangan DDoS.  
+- **Judul:** *Analisis Efektivitas Algoritma Random Forest dalam Mendeteksi Serangan DDoS menggunakan Dataset CICIDS2017*.  
+
+#### 2. Sistem Informasi & DevSecOps  
+- **Tema umum:** Integrasi keamanan DevOps.  
+- **Judul:** *Implementasi DevSecOps untuk Meningkatkan Keamanan Aplikasi E-Learning Berbasis Cloud*.  
+
+#### 3. Machine Learning & IoT untuk Kesehatan dan Sosial  
+- **Tema umum:** Smart Healthcare dengan IoT.  
+- **Judul:** *Implementasi IoT untuk Monitoring Denyut Jantung Pasien dengan Notifikasi Real-Time ke Aplikasi Mobile*.  
+
+- **Tema umum:** Analisis sosial dengan ML.  
+- **Judul:** *Analisis Sentimen Media Sosial tentang Program Vaksinasi COVID-19 Menggunakan Naïve Bayes Classifier*.  
+
+#### 4. Arsitektur Sistem Kompleks – Modular Monolith Fleet EV  
+- **Tema umum:** Arsitektur sistem manajemen armada kendaraan listrik.  
+- **Judul:** *Evaluasi Modular Monolith vs Microservices pada Sistem Fleet EV: Studi Kompleksitas, Latensi, dan Biaya Operasional*.  
+
+```mermaid
+flowchart TB
+  subgraph Edge/IoT
+    IOT[IoT Device on EV<br/>CAN/OBD -> MQTT]
+    CS[Charging Station<br/>(OCPP)]
+  end
+
+  GW[API & Ingestion Gateway]
+
+  subgraph Modular Monolith (Core)
+    F[Fleet Mgmt]
+    V[Vehicle & Telemetry]
+    C[Charging]
+    R[Routing]
+    MA[Maintenance]
+    B[Billing]
+    AN[Analytics]
+  end
+
+  DL[(Data Lake)]
+  EXT[(External Services)]
+
+  IOT-- MQTT -->GW
+  CS-- OCPP -->GW
+  GW-->F & GW-->V & GW-->C & GW-->R & GW-->MA & GW-->B & GW-->AN
+  AN-->DL
+  B-->EXT
+```
 
 ---
+
+## 4. Analisis  
+
+- **Tanpa alat digital:** tema generik, cenderung kurang spesifik.  
+- **Dengan alat digital:** mahasiswa bisa mengukur tren (Publish or Perish), menemukan literatur relevan (Scholar/Semantic Scholar), mengelola referensi (Zotero/Mendeley), lalu menyusun tema yang fokus (mis. IDS untuk DDoS, DevSecOps untuk e-learning, IoT untuk pasien jantung, modular monolith untuk fleet EV).  
+
+---
+
+## 5. Latihan  
+
+1. Gunakan **Publish or Perish** untuk mencari tren “DevSecOps” 5 tahun terakhir.  
+2. Cari artikel tentang “IoT for Healthcare” di **Semantic Scholar**.  
+3. Simpan minimal 5 literatur di **Zotero/Mendeley**, beri tag sesuai topik.  
+4. Rumuskan 2 judul penelitian spesifik dari topik Cyber Security dan IoT Kesehatan.  
+5. Buat diagram modul untuk sistem Fleet EV versi Anda.  
+
+---
+
+## 6. Mini Project  
+
+Tugas kelompok:  
+- Pilih 1 topik (Cyber Security / DevSecOps / ML & IoT / Arsitektur Fleet EV).  
+- Gunakan **Publish or Perish + Google Scholar** untuk literatur.  
+- Simpan di **Mendeley/Zotero**.  
+- Susun draft judul penelitian (1 halaman) dan presentasikan.  
+
+---
+
+## 7. Rangkuman  
+
+- Tema penelitian harus relevan, orisinal, bermanfaat, feasible, dan berbasis literatur.  
+- Alat digital mempermudah eksplorasi tren dan organisasi literatur.  
+- Contoh domain Informatika: **Cyber Security**, **DevSecOps**, **ML & IoT untuk kesehatan & sosial**, **Arsitektur Modular Monolith Fleet EV**.  
+- Dengan pendekatan ini, mahasiswa dapat memilih tema berbasis bukti dan kebutuhan nyata.  
+
+---
+
+## 8. Referensi  
+
+1. Agus Nero Sofyan, dkk. (2007). *Bahasa Indonesia dalam Penulisan Karya Ilmiah*. Bandung: Universitas Widyatama.  
+2. Sardy S. (2005). *Penulisan Karya Ilmiah & Etika Riset*. Jakarta: UAI.  
+3. R. Soedradjad. (2004). *Teknik Menulis Ilmiah*.  
+4. Harzing, A.W. (2023). *Publish or Perish*. [https://harzing.com/resources/publish-or-perish](https://harzing.com/resources/publish-or-perish)  
+5. Google Scholar. [https://scholar.google.com](https://scholar.google.com)  
+6. Semantic Scholar. [https://www.semanticscholar.org](https://www.semanticscholar.org)  
+7. Zotero. [https://en.wikipedia.org/wiki/Zotero](https://en.wikipedia.org/wiki/Zotero)  
+8. Mendeley. [https://en.wikipedia.org/wiki/Mendeley](https://en.wikipedia.org/wiki/Mendeley)  
