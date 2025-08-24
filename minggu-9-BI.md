@@ -18,7 +18,7 @@ Setelah mengikuti pembelajaran Minggu 9, mahasiswa mampu:
 
 ---
 
-## 1. Pendahuluan (±600 kata)
+## 1. Pendahuluan 
 
 Dalam setiap karya ilmiah – skripsi, tesis, disertasi, atau artikel jurnal – **abstrak adalah bagian yang pertama kali dibaca oleh pembaca**. Abstrak berfungsi sebagai “pintu masuk” ke dalam isi tulisan. Bahkan, banyak peneliti hanya membaca abstrak sebelum memutuskan apakah akan melanjutkan membaca seluruh artikel.
 
@@ -28,7 +28,7 @@ Pertemuan minggu ini akan membahas bagaimana menulis abstrak yang baik, membedak
 
 ---
 
-## 2. Uraian Materi (±2600 kata)
+## 2. Uraian Materi 
 
 ### 2.1 Definisi Abstrak
 
@@ -97,7 +97,7 @@ Swales & Feak (2004) menyebut struktur **IMRAD** (*Introduction, Method, Result,
 
 ---
 
-## 3. Contoh Analisis (±800 kata)
+## 3. Contoh Analisis
 
 ### Contoh Abstrak Buruk
 
@@ -113,7 +113,7 @@ Swales & Feak (2004) menyebut struktur **IMRAD** (*Introduction, Method, Result,
 
 ---
 
-## 4. Latihan (±500 kata)
+## 4. Latihan 
 
 1. Tulis abstrak deskriptif dari topik “Sistem Informasi Perpustakaan Digital”.
 2. Ubah abstrak berikut menjadi abstrak informatif (diberikan contoh mentah).
@@ -122,7 +122,7 @@ Swales & Feak (2004) menyebut struktur **IMRAD** (*Introduction, Method, Result,
 
 ---
 
-## 5. Mini Project (±300 kata)
+## 5. Mini Project 
 
 Tugas individu: Tulis **abstrak 150–250 kata** dari proposal mini penelitian yang sudah disusun minggu sebelumnya. Abstrak harus mencakup:
 
@@ -135,7 +135,7 @@ Hasil abstrak akan dipresentasikan dan direview antar mahasiswa.
 
 ---
 
-## 6. Rangkuman (±400 kata)
+## 6. Rangkuman 
 
 * Abstrak adalah ringkasan singkat yang berdiri sendiri, memuat inti penelitian.
 * Jenis abstrak: deskriptif & informatif.
@@ -156,5 +156,6 @@ Hasil abstrak akan dipresentasikan dan direview antar mahasiswa.
 7. APA (2020). *Publication Manual of the American Psychological Association*.
 
 ---
+
 
 
