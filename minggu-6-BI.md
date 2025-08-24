@@ -1,6 +1,5 @@
----
 
-# 📘 Modul Ajar Minggu 6
+#  Modul Ajar Minggu 6
 
 **Mata Kuliah:** Bahasa Indonesia
 **Minggu:** 6
@@ -176,5 +175,6 @@ Tugas kelompok: Buat **Kajian Pustaka (3–4 halaman)** dengan ketentuan:
 7. IEEE (2021). *IEEE Citation Guidelines*.
 
 ---
+
 
 
