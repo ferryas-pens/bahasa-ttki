@@ -1,6 +1,4 @@
----
-
-# 📘 Modul Ajar Minggu 5
+# Modul Ajar Minggu 5
 
 **Mata Kuliah:** Bahasa Indonesia
 **Minggu:** 5
@@ -175,5 +173,6 @@ Hasil mini project akan dipresentasikan minggu depan.
 5. Morrison, M. (2004). *Tips on Scientific Writing*.
 6. APJII. (2022). *Laporan Survei Internet Indonesia*.
 7. Kemdikbud. (2021). *Laporan Literasi Digital Mahasiswa*.
+
 
 ---
