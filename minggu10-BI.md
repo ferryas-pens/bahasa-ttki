@@ -1364,5 +1364,3 @@ Hormat saya,
 ```
 
 ---
-
-**Demikian konten pembelajaran minggu 10 tentang "Memahami Struktur Makalah Ilmiah" yang telah disusun secara komprehensif dengan total sekitar 5.000 kata. Materi ini mencakup semua aspek penting mulai dari konsep dasar hingga aplikasi praktis, dilengkapi dengan contoh, template, dan tools yang dapat langsung digunakan mahasiswa dalam menyusun makalah ilmiah mereka.**
