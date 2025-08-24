@@ -20,7 +20,7 @@ Setelah mengikuti pembelajaran Minggu 6, mahasiswa mampu:
 
 ---
 
-## 1. Pendahuluan (±600 kata)
+## 1. Pendahuluan
 
 Bagian **kajian pustaka** adalah fondasi akademik dari sebuah penelitian. Tidak ada penelitian yang berdiri di ruang kosong; setiap penelitian selalu berkaitan dengan penelitian sebelumnya. Oleh karena itu, mahasiswa harus mampu mengkaji literatur, membandingkan teori, serta menunjukkan posisi penelitiannya dalam peta ilmu pengetahuan.
 
@@ -28,8 +28,7 @@ Sayangnya, banyak mahasiswa menulis kajian pustaka hanya dengan menyalin teori d
 
 ---
 
-## 2. Uraian Materi (±2600 kata)
-
+## 2. Uraian Materi 
 ### 2.1 Dasar Teori
 
 * **Definisi:** landasan konseptual yang menjelaskan teori, konsep, atau model yang relevan dengan penelitian.
@@ -118,8 +117,7 @@ Beberapa gaya populer:
 
 ---
 
-## 3. Contoh Analisis (±800 kata)
-
+## 3. Contoh Analisis 
 **Contoh Kajian Pustaka Lemah:**
 *“Teori belajar banyak macamnya. Menurut A, teori ini begini. Menurut B, teori itu begitu.”*
 
@@ -132,7 +130,7 @@ Beberapa gaya populer:
 
 ---
 
-## 4. Latihan (±500 kata)
+## 4. Latihan 
 
 1. Ambil 1 artikel jurnal, lalu tuliskan ringkasan kajian pustakanya.
 2. Ubah 2 kutipan langsung menjadi kutipan parafrasa.
@@ -141,7 +139,7 @@ Beberapa gaya populer:
 
 ---
 
-## 5. Mini Project (±300 kata)
+## 5. Mini Project 
 
 Tugas kelompok: Buat **Kajian Pustaka (3–4 halaman)** dengan ketentuan:
 
@@ -153,7 +151,7 @@ Tugas kelompok: Buat **Kajian Pustaka (3–4 halaman)** dengan ketentuan:
 
 ---
 
-## 6. Rangkuman (±400 kata)
+## 6. Rangkuman 
 
 * Dasar teori memberi kerangka konseptual.
 * Kajian pustaka menelaah penelitian terdahulu secara kritis.
@@ -175,6 +173,7 @@ Tugas kelompok: Buat **Kajian Pustaka (3–4 halaman)** dengan ketentuan:
 7. IEEE (2021). *IEEE Citation Guidelines*.
 
 ---
+
 
 
 
