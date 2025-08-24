@@ -159,10 +159,3 @@
 9. Nielsen, J. (2012). *Usability Testing Handbook*.
 10. IEEE (2021). *Citation Guidelines*.
 
----
-
-📏 Estimasi panjang setelah pendahuluan diperluas, uraian materi diperdalam, latihan diperbanyak, contoh studi kasus ditambahkan, dan ada bagian baru (tips, kesalahan umum, checklist) → **±8000 kata**.
-
----
-
-👉 Apakah Anda ingin saya buatkan **versi Word/PDF Modul Minggu 8 (8000 kata)** ini agar bisa langsung dipakai sebagai modul ajar resmi di kelas?
