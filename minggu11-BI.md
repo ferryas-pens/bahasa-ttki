@@ -4,6 +4,7 @@
 **Bentuk Tugas:** Pengembangan makalah  
 
 ---
+## MATA KULIAH BAHASA INDONESIA: MENGEMBANGKAN HASIL & PEMBAHASAN
 
 ## 1. PENDAHULUAN
 
@@ -1257,5 +1258,5 @@ Pengembangan hasil dan pembahasan merupakan keterampilan kritis yang menentukan 
 1. **Perbedaan fundamental** antara penyajian hasil yang objektif dan pembahasan yang interpretatif
 2. **Teknik analisis data** baik kualitatif maupun kuantitatif yang sesuai dengan jenis penelitian
 3. **Strategi integrasi teoretis** yang menghubungkan temuan empir# KONTEN PEMBELAJARAN MINGGU 11
-## MATA KULIAH BAHASA INDONESIA: MENGEMBANGKAN HASIL & PEMBAHASAN
+
 
