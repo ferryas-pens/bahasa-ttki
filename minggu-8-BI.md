@@ -10,9 +10,6 @@
 
 ## 🎯 CPMK
 
-*(tetap sama seperti versi 5000 kata, namun diperluas dengan indikator kemampuan analisis kritis dan keterampilan menyusun metodologi sesuai disiplin Informatika).*
-
----
 
 ## 1. Pendahuluan 
 
@@ -146,7 +143,6 @@
 
 ## 10. Referensi
 
-*(diperluas dengan tambahan literatur Informatika & metodologi riset)*
 
 1. Agus Nero Sofyan, dkk. (2007). *Bahasa Indonesia dalam Penulisan Karya Ilmiah*. Bandung: Universitas Widyatama.
 2. Sardy S. (2005). *Penulisan Karya Ilmiah & Etika Riset*. Jakarta: UAI.
@@ -158,4 +154,5 @@
 8. CICIDS. (2017). *Intrusion Detection Evaluation Dataset*.
 9. Nielsen, J. (2012). *Usability Testing Handbook*.
 10. IEEE (2021). *Citation Guidelines*.
+
 
