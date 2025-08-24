@@ -1,5 +1,3 @@
----
-
 # 📘 Modul Ajar Minggu 9
 
 **Mata Kuliah:** Bahasa Indonesia
@@ -158,4 +156,5 @@ Hasil abstrak akan dipresentasikan dan direview antar mahasiswa.
 7. APA (2020). *Publication Manual of the American Psychological Association*.
 
 ---
+
 
