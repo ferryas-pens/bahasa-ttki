@@ -89,17 +89,139 @@ Intinya: karya ilmiah adalah **tulisan akademik yang disusun dengan metode ilmia
 ### 2.6 Format Karya Ilmiah
 
 Umumnya karya ilmiah terdiri dari:
+Baik, berikut penjelasan rinci setiap bagian karya ilmiah beserta contohnya. Masing-masing bagian dijelaskan secara ringkas namun informatif (≥100 kata) agar sesuai dengan kebutuhan akademik dan format yang umum digunakan di perguruan tinggi.
 
-1. Judul
-2. Abstrak
-3. Pendahuluan (latar belakang, rumusan masalah, tujuan, manfaat)
-4. Kajian pustaka
-5. Metodologi
-6. Hasil penelitian
-7. Pembahasan
-8. Simpulan dan saran
-9. Daftar pustaka
-10. Lampiran (jika ada)
+***
+
+#### A. Judul
+Judul adalah pernyataan singkat yang menggambarkan inti atau fokus utama dari penelitian. Judul harus spesifik, mencerminkan variabel yang diteliti, serta mudah dipahami. Dalam karya ilmiah, judul sering kali menjadi faktor pertama yang menentukan apakah pembaca tertarik membaca lebih lanjut. Judul yang baik tidak boleh terlalu panjang, maksimal 12–15 kata, dan menggunakan istilah ilmiah yang relevan. Misalnya, penelitian tentang pengaruh penggunaan perangkat jaringan terhadap performa sistem harus mencerminkan hubungan sebab-akibat secara eksplisit.  
+
+**Contoh:** “Analisis Pengaruh Konfigurasi VLAN terhadap Keamanan dan Efisiensi Jaringan Kampus di PENS”
+
+***
+
+#### B. Abstrak
+Abstrak merupakan ringkasan singkat dari keseluruhan isi karya ilmiah, biasanya terdiri dari 150–250 kata. Fungsinya memberi gambaran umum tentang tujuan, metode, hasil, dan kesimpulan penelitian tanpa harus membaca seluruh naskah. Abstrak harus ditulis secara padat, jelas, dan objektif. Dalam beberapa jurnal, abstrak juga mencakup kata kunci (keywords) yang memudahkan indexing penelitian di basis data akademik.  
+
+**Contoh:**  
+Penelitian ini menganalisis pengaruh konfigurasi VLAN terhadap keamanan jaringan kampus. Metode eksperimental digunakan dengan menerapkan skenario segmentasi jaringan menggunakan perangkat Mikrotik. Hasil penelitian menunjukkan bahwa penerapan VLAN dapat menurunkan risiko serangan ARP spoofing hingga 65% serta meningkatkan efisiensi bandwidth antar departemen. Penelitian ini memberikan rekomendasi desain jaringan aman untuk institusi pendidikan. *Kata kunci: VLAN, keamanan jaringan, Mikrotik.*
+
+***
+
+#### C. Pendahuluan
+Bagian pendahuluan menjelaskan latar belakang, rumusan masalah, tujuan, dan manfaat penelitian. Tujuannya untuk memperlihatkan mengapa topik tersebut penting diteliti dan bagaimana relevansinya terhadap konteks akademik atau praktis. Latar belakang menggambarkan kondisi nyata yang mendorong penelitian dilakukan, diikuti dengan perumusan masalah (pertanyaan penelitian) serta tujuan yang ingin dicapai. Manfaat berisi kontribusi ilmiah maupun praktis dari hasil penelitian.  
+
+**Contoh:**  
+Latar belakang: Meningkatnya ancaman keamanan jaringan di perguruan tinggi menuntut solusi efektif melalui segmentasi VLAN.  
+Rumusan masalah: Bagaimana pengaruh penerapan VLAN terhadap keamanan jaringan kampus?  
+Tujuan: Menganalisis hubungan konfigurasi VLAN dengan peningkatan keamanan jaringan.  
+Manfaat: Memberi panduan implementasi keamanan jaringan bagi institusi pendidikan.
+
+***
+
+#### D. Kajian Pustaka
+Kajian pustaka (tinjauan teori) berisi uraian teori, konsep, serta penelitian terdahulu yang relevan dengan topik. Tujuannya memberikan landasan teoretis dan menunjukkan posisi penelitian terhadap studi sebelumnya. Dalam bagian ini penulis menampilkan rujukan dari buku, jurnal, maupun artikel ilmiah kredibel. Kajian pustaka membantu pembaca memahami konteks ilmiah penelitian dan menghindari duplikasi.  
+
+**Contoh:**  
+Penelitian oleh Siregar (2023) menunjukkan bahwa VLAN dapat memisahkan lalu lintas antar divisi untuk mencegah serangan internal. Selain itu, studi oleh Rahman (2022) menyoroti peningkatan performa jaringan dengan konfigurasi VLAN dinamis berbasis Mikrotik. Dengan mengacu pada kedua studi tersebut, penelitian ini berupaya memperluas penerapan VLAN pada skala kampus dengan parameter keamanan dan efisiensi yang lebih komprehensif.
+
+***
+
+#### E. Metodologi
+Metodologi menjelaskan cara penelitian dilakukan, termasuk desain penelitian, variabel, instrumen, teknik pengumpulan data, dan prosedur analisis. Tujuannya agar penelitian dapat direplikasi oleh orang lain dengan hasil yang konsisten. Jenis metode dapat berupa kualitatif, kuantitatif, atau kombinasi keduanya tergantung tujuan penelitian.  
+
+**Contoh:**  
+Penelitian ini menggunakan metode eksperimen dengan dua skenario jaringan: tanpa VLAN dan dengan VLAN. Perangkat Mikrotik digunakan untuk konfigurasi segmentasi, sementara Wireshark digunakan untuk memantau paket data. Data performa jaringan (delay, throughput, packet loss) dikumpulkan selama 7 hari dan dianalisis menggunakan uji t untuk melihat signifikansi perbedaan antara kedua skenario.
+
+***
+
+#### F. Hasil Penelitian
+Bagian hasil menampilkan temuan utama dari proses penelitian tanpa interpretasi berlebihan. Hasil biasanya disajikan dalam bentuk tabel, grafik, atau bagan agar lebih mudah dipahami. Hasil harus sesuai dengan rumusan masalah dan metode penelitian.  
+
+**Contoh:**  
+Dari pengujian jaringan, diperoleh bahwa rata-rata jumlah serangan ARP request menurun dari 230 menjadi 78 per jam setelah penerapan VLAN. Efisiensi bandwidth meningkat 27% pada jam sibuk, dan delay antar divisi mengalami penurunan signifikan. Data ini menunjukkan adanya peningkatan kinerja dan keamanan yang terukur.
+
+***
+
+#### G. Pembahasan
+Pembahasan menginterpretasikan hasil penelitian dengan mengaitkannya pada teori dan studi terdahulu. Pada bagian ini penulis menjelaskan makna dari data, alasan munculnya pola tertentu, serta perbandingan dengan hasil penelitian lain. Pembahasan juga digunakan untuk menguji hipotesis.  
+
+**Contoh:**  
+Penurunan serangan internal setelah penerapan VLAN menunjukkan efektivitas segmentasi jaringan dalam membatasi akses antar subnet. Hasil ini mendukung temuan Rahman (2022) serta memperluas bukti ilmiah bahwa isolasi jaringan dapat meminimalkan risiko serangan rekonstruksi ARP. Namun, konfigurasi VLAN perlu disertai kebijakan routing yang aman agar tidak menimbulkan bottleneck antar-segmen.
+
+***
+
+#### H. Simpulan dan Saran
+Simpulan merangkum hasil penelitian yang relevan dengan tujuan awal. Ia harus ringkas dan menyajikan jawaban terhadap rumusan masalah. Saran mencakup rekomendasi untuk penelitian lanjutan atau implementasi praktis berdasarkan hasil penelitian.  
+
+**Contoh:**  
+Simpulan: Penerapan VLAN berbasis Mikrotik terbukti meningkatkan keamanan dan efisiensi jaringan kampus.  
+Saran: Penelitian lanjutan disarankan untuk mengevaluasi penggunaan VLAN dinamis dengan autentikasi RADIUS untuk menambah lapisan kontrol akses pada jaringan pendidikan.
+
+***
+
+#### I. Daftar Pustaka
+Daftar pustaka berisi semua sumber yang dirujuk dalam karya ilmiah. Format penulisan mengikuti standar tertentu seperti APA, IEEE, atau Harvard. Fungsinya menunjukkan dasar teori yang digunakan sekaligus menghormati hak cipta penulis lain.  
+
+**Contoh (APA Style):**  
+Siregar, A. (2023). *Analisis Efisiensi VLAN dalam Keamanan Jaringan*. Jurnal Teknologi Informasi, 15(2), 112–118.  
+Rahman, M. (2022). *Implementasi VLAN Dinamis pada Jaringan Mikrotik Kampus*. Prosiding Seminar Nasional Informatika, 9(1), 55–62.
+
+***
+
+#### J. Lampiran
+Lampiran berisi data pendukung yang terlalu rinci untuk ditempatkan pada bagian utama, seperti kuesioner, hasil log eksperimen, skrip konfigurasi, atau tabel besar. Lampiran membantu pembaca yang ingin menelusuri proses penelitian secara lebih teknis.  
+
+**Contoh:**  
+Lampiran A: Skrip konfigurasi VLAN Mikrotik  
+Lampiran B: Log hasil monitoring jaringan (format .csv)  
+Lampiran C: Screenshot topologi laboratorium uji VLAN  
+
+***
+
+## Diagram Alur Penyusunan Karya Ilmiah
+
+Berikut disajikan diagram alur penyusunan karya ilmiah secara formal, dengan penulisan **abstrak dilakukan terakhir** setelah seluruh bagian isi telah selesai dan disempurnakan. Urutan ini mengikuti praktik akademik standar untuk memastikan abstrak mencerminkan substansi penelitian secara akurat.
+
+```mermaid
+flowchart TD
+    A["Mulai Penyusunan"] --> B["Merumuskan Judul Sementara"]
+    B --> C["Menyusun Pendahuluan<br/>Latar Belakang, Rumusan Masalah,<br/>Tujuan Penelitian, Manfaat Penelitian"]
+    C --> D["Mengembangkan Kajian Pustaka<br/>Landasan Teori dan Penelitian Terdahulu"]
+    D --> E["Merancang Metodologi Penelitian<br/>Desain, Instrumen, Prosedur"]
+    E --> F["Melaksanakan Penelitian<br/>Pengumpulan Data"]
+    F --> G["Menyiapkan Hasil Penelitian<br/>Presentasi Data Tabulasi/Grafik"]
+    G --> H["Menguraikan Pembahasan<br/>Interpretasi, Perbandingan dengan Teori"]
+    H --> I["Menyusun Simpulan dan Saran<br/>Jawaban Rumusan Masalah"]
+    I --> J["Menyusun Daftar Pustaka<br/>Referensi Lengkap"]
+    J --> K["Menyiapkan Lampiran<br/>Data Pendukung Opsional"]
+    K --> L["Menyusun Abstrak<br/>Ringkasan Keseluruhan - Dilakukan Terakhir"]
+    L --> M["Finalisasi Naskah<br/>Revisi dan Penyempurnaan"]
+    M --> N["Selesai"]
+    
+    style L fill:#e1f5fe,stroke:#01579b,stroke-width:3px
+```
+**Penjelasan Alur Penyusunan**
+Mengapa Abstrak Terakhir?
+1. Abstrak memerlukan gambaran lengkap semua bagian yang sudah selesai
+2. Menghindari perubahan berulang saat konten utama direvisi
+3. Memastikan konsistensi antara ringkasan dan isi sebenarnya
+   
+### 2.6.2. Urutan Logis Penyusunan
+
+1. **Judul Sementara**: Dirumuskan awal sebagai panduan fokus penelitian, dapat disempurnakan di akhir.
+2. **Pendahuluan**: Menyajikan konteks masalah, rumusan, tujuan, dan manfaat untuk membingkai penelitian.
+3. **Kajian Pustaka**: Menguraikan fondasi teoretis dan celah penelitian terdahulu.
+4. **Metodologi**: Mendefinisikan prosedur ilmiah yang dapat direplikasi.
+5. **Pelaksanaan Penelitian**: Tahap empiris pengumpulan data primer.
+6. **Hasil Penelitian**: Presentasi temuan objektif tanpa interpretasi.
+7. **Pembahasan**: Analisis mendalam dan kaitan dengan literatur.
+8. **Simpulan dan Saran**: Sintesis akhir dan rekomendasi aplikatif.
+9. **Daftar Pustaka**: Dokumentasi rujukan sistematis.
+10. **Lampiran**: Materi suplemen untuk verifikasi.
+11. **Abstrak**: Dirangkum belakangan setelah isi matang, mencakup keseluruhan esensi (150-250 kata).
+
+Pendekatan ini memastikan koherensi dan integritas ilmiah, sesuai pedoman penulisan karya ilmiah.
 
 ---
 
@@ -166,3 +288,4 @@ Mahasiswa diminta menulis **draft makalah ilmiah singkat (2–3 halaman)** denga
 6. Kridalaksana, H. (2008). *Kamus Linguistik*.
 
 ---
+
