@@ -202,3 +202,24 @@ Tugas kelompok:
 7. Zotero. [https://en.wikipedia.org/wiki/Zotero](https://en.wikipedia.org/wiki/Zotero)  
 8. Mendeley. [https://en.wikipedia.org/wiki/Mendeley](https://en.wikipedia.org/wiki/Mendeley)  
 
+## Contoh Prompt : 
+Anda adalah asisten peneliti ahli di bidang [BIDANG_STUDI_USER, misalnya Teknik Informatika].
+
+User memberikan:
+- Minat utama: [MINAT_USER]
+- Sumber daya: [SUMBER_DAYA_USER, misalnya waktu 6 bulan, akses lab IoT]
+- Tujuan: [TUJUAN_USER, misalnya aplikasi praktis atau publikasi jurnal]
+- Contoh topik terkait: [CONTOH_USER]
+
+Langkah-langkah:
+1. Identifikasi 3-5 tema umum dari minat user yang relevan dengan tren terkini (gunakan kriteria: relevan dengan bidang, orisinal/sudut baru, bermanfaat, feasible dengan sumber daya, didukung literatur).
+2. Untuk setiap tema, usulkan 2 judul spesifik (format: "Analisis/Implementasi/Perancangan [metode/objek] untuk [masalah] menggunakan [teknik]").
+3. Jelaskan mengapa memenuhi kriteria (relevan, orisinal, dll.), sarankan 3 referensi awal dari Google Scholar/Semantic Scholar.
+4. Rekomendasikan tools: Publish or Perish untuk tren, Zotero untuk literatur.
+
+Output dalam tabel:
+
+| Tema Umum | Judul Spesifik 1 | Judul Spesifik 2 | Alasan Kriteria | Referensi Awal |
+|-----------|------------------|------------------|-----------------|----------------|
+
+Respons singkat, fokus bukti ilmiah.
